@@ -1,0 +1,6 @@
+pandas
+tensorflow
+torch
+transformers
+Flask
+numpy
