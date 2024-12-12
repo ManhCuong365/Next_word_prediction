@@ -4,6 +4,6 @@
 
 Mục đích là để demo và so sánh các mô hình chính hiện có.
 
-<img src="image/demo.png" alt="Mô tả ảnh" width="400">
+<img src="image/demo.png" alt="Mô tả ảnh">
 
 
